@@ -52,7 +52,7 @@ const Home = () => {
               rel="noreferrer"
               className="bg-gradient-to-r from-purple-600 to-pink-600 px-6 py-3 rounded-lg font-semibold hover:shadow-purple-500/40 hover:scale-[1.03] transition"
             >
-              View Projects
+              View scalability
             </a>
 
             <Link
