@@ -26,16 +26,16 @@ const Home = () => {
         <div data-aos="fade-right" className="space-y-6 max-w-xl">
 
           <p className="text-purple-400 font-semibold tracking-wide text-sm sm:text-base">
-            Full Stack Developer
+            DevSecOps
           </p>
 
           <h1 className="font-extrabold leading-tight text-3xl sm:text-4xl md:text-5xl xl:text-6xl">
             Hi, I’m{" "}
             <span className="bg-gradient-to-r from-purple-400 to-pink-400 text-transparent bg-clip-text">
-              Shiv Kant
+              Nikita 
             </span>
             <br />
-            I build scalable web apps
+            I deploy scalable projects on AWS
           </h1>
 
           <p className="text-gray-400 text-base sm:text-lg">
